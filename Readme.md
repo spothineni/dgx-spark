@@ -1,3 +1,4 @@
+```bash
 root@7d62de5c7fc1:/workspace/assets# python Llama3_8B_LoRA_finetuning.py
 /usr/local/lib/python3.12/dist-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
   import pynvml  # type: ignore[import]
@@ -166,4 +167,5 @@ Train loss: 1.0093
 ============================================================
 
 Saving the model
-root@7d62de5c7fc1:/workspace/assets# 
+root@7d62de5c7fc1:/workspace/assets#
+```
